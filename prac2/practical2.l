@@ -1,5 +1,4 @@
 %{
-//Name: Sparsh Goswami  PRN: 24070521091
 #include<stdio.h>
 int comments=0,keywords=0, identifiers=0, words=0, lines=0, spaces=0;
 %}
