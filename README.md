@@ -9,4 +9,6 @@ It covers lexical analysis, pattern matching, comment detection, word counting, 
 ### 🔹 Practical 2: Lexical Analyzer <br>
 ### 🔹 Practical 3: Pattern Matching <br>
 ### 🔹 Practical 4: Arithmetic Expression Validation using Lex & Yacc <br>
-### 🔹 Practical 5: Case Conversion using Lex <br>
+### 🔹 Practical 5: Conversion of Lowercase to Uppercase using Lex <br>
+### 🔹 Practical 6: Conversion of Decimal to Hexadecimal using Lex <br>
+### 🔹 Practical 7: Test Lines Ending with "COM" <br>
