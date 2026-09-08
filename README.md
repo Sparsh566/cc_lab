@@ -4,7 +4,7 @@
 This repository contains Compiler Design Lab practicals performed using Lex/Flex and Yacc/Bison.
 It covers lexical analysis, pattern matching, comment detection, word counting, token recognition, and syntax validation using grammar.
 
-🧪 Practicals Included
+🧪 Practicals Included <br>
 🔹 Practical 1: Basic Lexical Analysis <br>
 🔹 Practical 2: Lexical Analyzer <br>
 🔹 Practical 3: Pattern Matching <br>
